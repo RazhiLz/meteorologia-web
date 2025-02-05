@@ -2,7 +2,11 @@
 
 ## Descrição
 
-**Bleya** é uma aplicação web para **previsão do tempo**, construída com **React** e **Vite**. O projeto utiliza a **API OpenWeatherMap** para obter informações climáticas em tempo real e previsões para os próximos 5 dias. A aplicação permite que o usuário consulte o clima de qualquer cidade, exibindo detalhes sobre a temperatura, umidade, pressão atmosférica, sensação térmica e muito mais.
+**Bleya** Bleya é um projeto que eu criei como parte de uma das lições do DevClub. O objetivo era construir uma aplicação web para previsão do tempo, utilizando React e Vite. A aplicação consome dados da API OpenWeatherMap para exibir informações em tempo real sobre o clima e até as previsões para os próximos 5 dias.
+
+Ao longo do desenvolvimento, aprendi a buscar informações sobre a temperatura, umidade, pressão atmosférica, sensação térmica e outras variáveis relacionadas ao clima de qualquer cidade do mundo. A interface é simples, permitindo ao usuário consultar o clima de forma rápida e sem complicação.
+
+Esse projeto foi muito interessante para entender como integrar APIs externas com o React e como organizar a estrutura de uma aplicação para que tudo funcione de maneira eficiente.
 
 ## Funcionalidades
 
