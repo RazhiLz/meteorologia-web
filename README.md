@@ -1,5 +1,7 @@
 # Bleya - Previsão do Tempo
 
+> **Nota:** A maioria dos meus Projetos se chama Bleya pq eu nao tenho muita criatividade entao deixo como se fosse mais um projeto da "Empresa" bleya, entao relevem.. kkkkkk.
+
 ## Descrição
 
 **Bleya** Bleya é um projeto que eu criei como parte de uma das lições do DevClub. O objetivo era construir uma aplicação web para previsão do tempo, utilizando React e Vite. A aplicação consome dados da API OpenWeatherMap para exibir informações em tempo real sobre o clima e até as previsões para os próximos 5 dias.
